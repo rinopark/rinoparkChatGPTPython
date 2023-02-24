@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./openai-0.26.0/openai-0.26.0"
+    ]
+}
